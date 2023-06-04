@@ -9,9 +9,5 @@ The objective of the project is to analyse the dataset and provide actionable in
 # Approach to Analysis
 Analysis is performed by writing SQL queries to answer the various queries posed by the production house.
 
-# Remarks
-The project files are as follows:
-- IMDb Movies Data & ERD.xlsx - Entity Relationship Diagram
-- IMDb Data Import.sql - SQL code for loading the database
-- Movie Dataset Analysis using SQL.sql - SQL code for data analysis
-- Executive Summary.pdf - Summary of insights
+# Results
+The SQL queries and insights are available in the files 'Movie Dataset Analysis using SQL.sql' and 'Executive Summary.pdf', respectively.
